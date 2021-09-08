@@ -1,0 +1,5 @@
+How to setup mingw gcc for C codeblocks 20.03?
+
+- click settings > compiler
+- click tab Toolchain executables > auto-detects (you must install code::blocks.mingw, link: https://www.codeblocks.org/downloads/binaries/)
+- finish
